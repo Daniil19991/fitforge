@@ -1,0 +1,16 @@
+{
+  "name": "FitForge Lite — конструктор тренировок",
+  "short_name": "FitForge",
+  "description": "Тренировки под ваш инвентарь: 48 упражнений, календарь и аналитика",
+  "lang": "ru",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0e1013",
+  "theme_color": "#0e1013",
+  "icons": [
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "icons/icon-maskable.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "maskable" }
+  ]
+}
